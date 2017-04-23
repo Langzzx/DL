@@ -1,5 +1,7 @@
 # Deep Learning - course-Udacity
-Based on [Udacity Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning).
+以 [Udacity Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning) 课程为基础记录下学习DL。同时参考学习：
+- [Udacity DL by Vincent](https://classroom.udacity.com/courses/ud730)
+-
 
 ## Course Notes
 1. Neural Networks
@@ -20,3 +22,5 @@ Based on [Udacity Deep Learning Nanodegree Foundation](https://github.com/udacit
 ### 2. Courses Ex.
 
 ## Deep-learning Advanced Study.
+
+## Other
