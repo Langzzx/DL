@@ -20,6 +20,7 @@
 ### 1. Youtube Live Ex:
 - 1.4: [word_vector_game_of_thrones](./Ex/Siraj_weekly_live_Ex/word_vectors_game_of_thrones-LIVE)
 > Understand wordvector, try to use w2v to read pride and prejudice
+- 1. 15 [GNN intro](../Ex/enerative_Adversarial_networks_LIVE)
 
 ### 2. Courses Ex
 
