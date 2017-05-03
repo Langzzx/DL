@@ -1,5 +1,5 @@
 # Deep Learning - course-Udacity
-以 [Udacity Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning) 课程为基础记录下学习DL。同时参考学习：
+This is notes based on [Udacity Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning)to learn the 'Deep Learning', also ref to: 
 - [Udacity DL by Vincent](https://classroom.udacity.com/courses/ud730)
 -
 
@@ -18,9 +18,9 @@
 
 ## DLND Exercise:
 ### 1. Youtube Live Ex:
-- 1.4: [word_vector_game_of_thrones](./Ex/Siraj_weekly_live_Ex/word_vectors_game_of_thrones-LIVE)
+- 1.4: [word_vector_game_of_thrones](./Siraj_weekly_live_Ex/Siraj_weekly_live_Ex/word_vectors_game_of_thrones-LIVE)
 > Understand wordvector, try to use w2v to read pride and prejudice
-- 1. 15 [GNN intro](../Ex/enerative_Adversarial_networks_LIVE)
+- 1. 15 [GNN intro](../Siraj_weekly_live_Ex/enerative_Adversarial_networks_LIVE)
 
 ### 2. Courses Ex
 
