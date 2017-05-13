@@ -19,7 +19,7 @@ This is notes based on [Udacity Deep Learning Nanodegree Foundation](https://git
 
 ## DLND Exercise:
 ### 1. Youtube Live Ex:
-- 1.4 : [word_vector_game_of_thrones](./Siraj_Live_Ex/word_vector_game_of_thrones-live)
+- 1.4 : [word_vector_game_of_thrones](./Siraj_Live_Ex/wk-04_word2vec)
 > Understand word2vector, try to use w2v to read <pride and prejudice>
 
 ### 2. Courses Ex
