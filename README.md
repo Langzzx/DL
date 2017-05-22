@@ -1,8 +1,6 @@
-s
-# Deep Learning - course-Udacity
-This is notes based on [Udacity Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning)to learn the 'Deep Learning', also ref to:
+s# Deep Learning - course-Udacity
+This is notes based on [Udacity Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning) to learn the 'Deep Learning', also ref to:
 - [Udacity DL by Vincent](https://classroom.udacity.com/courses/ud730)
--
 
 ## Course Notes
 1. Neural Networks
@@ -16,6 +14,7 @@ This is notes based on [Udacity Deep Learning Nanodegree Foundation](https://git
 - project 2: [Image Classification](./Projects/pro3)
 - project 3: [TV Script Generation](./Projects/pro3_RNN)
 - project 4: [Language Translation](./Projects/proj4_seq2seq)
+- project 5: [Face generation](./Projects/proj5_GAN_faceGeneration)
 
 ## DLND Exercise:
 ### 1. Youtube Live Ex:
