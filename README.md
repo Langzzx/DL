@@ -4,6 +4,9 @@ This is notes based on [Udacity Deep Learning Nanodegree Foundation](https://git
 
 ## Course Notes
 1. Intro Neural Networks
+
+  1.1 [Sentiment networks](.Notes/Sentiment_Classification_Projects-Ex.ipynb): 
+  > Use sentiment as example intro NN basic, like BP/SGD/ and some interesting idea of process the data and skill imporved accuracy and efficiency.
 2. Convolutional Neural Networks
 3. Recurrent Neural Networks
 4. Generative Adversarial Networks
