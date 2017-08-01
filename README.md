@@ -5,7 +5,7 @@ This is notes based on [Udacity Deep Learning Nanodegree Foundation](https://git
 ## Course Notes
 1. Intro Neural Networks
 
-  1.1 [Sentiment networks](.Notes/Sentiment_Classification_Projects-Ex.ipynb): 
+  1.1 [Sentiment networks](.Notes/Sentiment_Classification_Projects-Ex.ipynb):
   > Use sentiment as example intro NN basic, like BP/SGD/ and some interesting idea of process the data and skill imporved accuracy and efficiency.
 2. Convolutional Neural Networks
 3. Recurrent Neural Networks
@@ -24,7 +24,11 @@ This is notes based on [Udacity Deep Learning Nanodegree Foundation](https://git
 - 1.4 : [word_vector_game_of_thrones](./Siraj_Live_Ex/wk-04_word2vec)
 > Understand word2vector, try to use w2v to read <pride and prejudice>
 
-### 2. Courses Ex
+### 2. CNN
+- [Image Classify by tf](./Siraj_Live_Ex/tf_imageClassify_MNIST-show_layers.ipynb)
+> use tf show weight/bias in CNN difference layer results, interesting. ref to Siray live
+>
+### 3. RNN
 
 ## Deep-learning Advanced Study.
 
